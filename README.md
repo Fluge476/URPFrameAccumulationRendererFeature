@@ -1,6 +1,6 @@
 # URP Frame Accumulation RendererFeature
 
-This RendererFeature allows you to store a copy of your color buffer at any given RenderGraph injection point and mix it into a persistent buffer. This allows for the creation of frame accumulation-based fullscreen effect.
+This RendererFeature allows you to store a copy of your color buffer at any given RenderGraph injection point and mix it into a persistent buffer. This allows for the creation of frame accumulation-based fullscreen effects.
 
 An example shader graph with a simple alpha-blended frame accumulation motion blur is provided.
 
@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/7844e03a-3dfd-42b3-b695-2dda5daf821a
 
 
 ## Usage
-The RendererFeature simply draws the current frame into the persistent buffer using the provided material, then writes that persistent buffer into the main color buffer. To sample the current frame, use the URP Sample Buffer Node.
+The RendererFeature simply draws the current frame into the persistent buffer using the provided material, then writes that persistent buffer back into the main color buffer. To sample the current frame, use the URP Sample Buffer Node.
 
 
 ## Installation
