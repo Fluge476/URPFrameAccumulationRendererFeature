@@ -7,3 +7,7 @@ Included is a simple fullscreen alpha blending shader graph that allows for a PS
 Simply create a material, plug it into the renderer feature, and you should be good to go.
 
 A .unitypackage file is provided for your convenience. 
+
+This Unity Discussions post was used as a template to better understand the RG API, along with the Unity Manual/Scripting API:
+
+https://discussions.unity.com/t/introduction-of-render-graph-in-the-universal-render-pipeline-urp/930355/3
