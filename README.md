@@ -1,4 +1,4 @@
-# URP Screen Accumulation RendererFeature
+# URP Frame Accumulation RendererFeature
 
 This Renderer Feature requires Unity 6 / RenderGraph API.
 I might port it to the pre-render graph URP API, however, that is not currently a priority. 
