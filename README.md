@@ -1,5 +1,12 @@
 # URP Frame Accumulation RendererFeature
 
+This RendererFeature allows you to store a copy of your color buffer at any given RenderGraph injection point to be later used for any kind of frame accumulation-based fullscreen effect.
+An example shader graph implementing frame accumulation motion blur is provided:
+
+https://github.com/user-attachments/assets/7844e03a-3dfd-42b3-b695-2dda5daf821a
+
+
+
 This Renderer Feature requires Unity 6 / RenderGraph API.
 I might port it to the pre-render graph URP API, however, that is not currently a priority. 
 
